@@ -1,16 +1,3 @@
-<style>
-    p {
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: large;
-        text-align: justify;
-    }
-
-    .right {
-        float: right;
-        margin-top: 0;
-    }
-</style>
-
 <img src="./img/thiagoperess.png" min-width="220px" max-width="220px" width="220px" align="left" alt="Thiago Peres" style="padding: 0px 10px 10px 15px;">
 
 <p> 
