@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  📨 Se quiser fazer contato comigo, pode me enviar uma mensagem. Eu vou adorar! ❤️
+  📨 Se quiser fazer contato comigo, pode mandar mensagem. Eu vou adorar! ❤️
 </p>
 
 <p class="left">
