@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  ⚙️ Ferramentas: <strong>VSCODE, Pycharm, Canva, Figma, Git and GitHub.</strong>
+  ⚙️ Ferramentas: <strong>VSCode, Pycharm, Canva, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
