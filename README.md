@@ -23,7 +23,7 @@
   📨 Se quiser fazer contato comigo, pode me enviar uma mensagem. Eu vou adorar! ❤️
 </p>
 
-<p class="right">
+<p class="left">
   <a href="https://www.instagram.com/oprogramadorjunior/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oprogramadorjunior/"/></a>
   
