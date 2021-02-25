@@ -12,7 +12,7 @@
   Um eterno lifelong learning.</p>
 
 <p align="left">
-  💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Linux, Python and UI/UX Design.</strong>
+  💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Linux, Python and UI/UX.</strong>
 </p>
 
 <p align="left">
