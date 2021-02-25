@@ -1,4 +1,4 @@
-<img src="./img/bg-github.png" min-width="220px" max-width="220px" width="220px" align="left" alt="Thiago Peres" style="padding: 0px 15px 10px 10px;">
+<img src="./img/bg-github.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Thiago Peres" style="padding: 0px 15px 10px 10px;">
 
 <p> 
   Olá, meu nome é Thiago Peres! Sou de Porto Alegre, RS. 
