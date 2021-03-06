@@ -12,7 +12,7 @@
   Um eterno lifelong learning.</p>
 
 <p align="left">
-  💻 Tecnologias: <strong>HTML, CSS, JavaScript, Bootstrap, Linux, Python and UI/UX.</strong>
+  💻 Tecnologias: <strong>HTML, CSS, Python, JavaScript, Bootstrap and Linux.</strong>
 </p>
 
 <p align="left">
@@ -22,8 +22,7 @@
 <p align="left">
   📨 Se quiser fazer contato comigo, pode mandar mensagem. Eu vou adorar! ❤️
 </p>
-<p>..........................................................................</p>
-<p class="left">
+<p class="right">
   <a href="https://www.linkedin.com/in/thiagoperess/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoperess/" /></a>
 
