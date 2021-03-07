@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  📨 Se quiser fazer contato comigo, pode mandar mensagem. Eu vou adorar! ❤️
+  📨 If you want to contact me, you can send a message. I'll love it! ❤️
 </p>
 <p class="right">
   <a href="https://www.linkedin.com/in/thiagoperess/" alt="Linkedin">
