@@ -1,25 +1,23 @@
 <img src="./img/bg-github.png" min-width="320px" max-width="320px" width="320px" align="left" alt="Thiago Peres" style="padding: 20px 15px 20px 10px;">
 
-<p> 
-  Olá, meu nome é Thiago Peres! Sou de Porto Alegre, RS. 
-  Graduado em Direito pela Universidade Luterana do Brasil. 
-  Adentrei tecnologia trabalhando em uma legaltech. 
-  Lá me tornei amante do Excel e Power BI e análise de dados; 
-  Apaixonado por criar e compartilhar de conteúdo; 
-  Programação; Data Science; Composição e Escrita. 
-  Atualmente curso Ciência da Computação na Laureate Universities. 
-  Sou muito curioso e gosto de estudar e aprender muito e de tudo. 
-  Um eterno lifelong learning.</p>
-
-<p align="left">
-  💻 Tecnologias: <strong>HTML, CSS, Python, JavaScript, Bootstrap and Linux.</strong>
+<p> I'm from Porto Alegre, RS. Graduated in Law from the Lutheran University of Brazil. 
+    I entered technology working at a legaltech. There I became a lover of Excel and Power BI 
+    and data analysis (despite being a Linux user today); Passionate about creating and sharing content; 
+    Programming; Data science; Composition and Writing.
+  
+    Currently studying Computer Science at Laureate Universities. 
+    I am very curious and I like to study and learn a lot and everything. Eternal lifelong learning.
 </p>
 
 <p align="left">
-  ⚙️ Ferramentas: <strong>VSCode, Pycharm, Canva, Figma, Git and GitHub.</strong>
+  💻 Techs: <strong>HTML, CSS, Python, JavaScript, Bootstrap and Linux.</strong>
 </p>
 
 <p align="left">
+  ⚙️ Tools: <strong>VSCode, Pycharm, Canva, Git and GitHub.</strong>
+</p>
+
+<p align="right">
   📨 Se quiser fazer contato comigo, pode mandar mensagem. Eu vou adorar! ❤️
 </p>
 <p class="right">
