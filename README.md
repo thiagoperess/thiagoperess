@@ -4,7 +4,8 @@
     I entered technology working at a legaltech. There I became a lover of Excel and Power BI 
     and data analysis (despite being a Linux user today); Passionate about creating and sharing content; 
     Programming; Data science; Composition and Writing.
-  
+</p>
+<p>
     Currently studying Computer Science at Laureate Universities. 
     I am very curious and I like to study and learn a lot and everything. Eternal lifelong learning.
 </p>
