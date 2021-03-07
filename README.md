@@ -18,7 +18,7 @@
   ⚙️ Tools: <strong>VSCode, Pycharm, Canva, Git and GitHub.</strong>
 </p>
 
-<p align="right">
+<p align="left">
   📨 Se quiser fazer contato comigo, pode mandar mensagem. Eu vou adorar! ❤️
 </p>
 <p class="right">
