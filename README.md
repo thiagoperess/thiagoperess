@@ -13,25 +13,12 @@
 </p>
 
 <p align="left">
-  💻 <strong>Techs:</strong><br>
-  <p></p>
-  <img src="https://img.shields.io/badge/-HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-00008B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black"/>
+  💻 Techs: <strong>HTML, CSS, Python, JavaScript, Bootstrap and Linux.</strong>
 </p>
 
 <p align="left">
-  ⚙️ <strong>Tools:</strong><br>
-  <p></p>
-  <img src="https://img.shields.io/badge/-Git-FF0000?style=for-the-badge&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pycharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Canva-00CED1?style=for-the-badge&logo=canva&logoColor=white"/>
+  ⚙️ Tools: <strong>VSCode, Pycharm, Canva, Git and GitHub.</strong>
 </p>
-
 <p align="left" style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: large;">
   📨 If you want to contact me, you can send me a message. I'll love it ❤️
 </p>
