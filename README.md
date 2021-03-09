@@ -1,5 +1,5 @@
 <img src="./img/bg-33.png" min-width="100%" max-width="100%" width="100%" align="left" alt="Thiago Peres" style="position:relative; overflow:hidden; padding: 0px 15px 10px 10px; display: block; margin: 5px auto;">
-
+<p></p>
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: large; padding-top: 10px;"> 
   I'm from Porto Alegre, RS. Graduated in Law from the Lutheran University of Brazil. 
   I entered technology working at a legaltech. There I became a lover of Excel and 
