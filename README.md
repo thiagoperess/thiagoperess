@@ -66,4 +66,5 @@
 
   <a href="https://twitter.com/othiagoperess" alt="Twitter">
     <img src="https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/othiagoperess"/></a>
-</p>  
+</p> 
+    ![Snake animation](https://github.com/rafaballerini/thiagoperess/blob/output/github-contribution-grid-snake.svg)
