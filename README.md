@@ -27,7 +27,14 @@
     <img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/othiagoperess"/></a>
 
   <a href="https://getbootstrap.com/" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com//othiagoperess"/></a>
+    <img src="https://img.shields.io/badge/-Bootstrap-8B008B?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/"/</a>
+    
+  <a href="https://www.postgresql.org/" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/"/</a>
+    
+  <a href="https://www.mysql.com/" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/"/</a>
+
 </p> 
 </p>
 
