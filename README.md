@@ -52,12 +52,12 @@
 
   <a href="https://github.com/" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/"/></a>
-      
-  <a href="https://about.gitlab.com/" alt="GitLab">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://about.gitlab.com/"/></a>
 
   <a href="https://www.canva.com/" alt="Canva">
     <img src="https://img.shields.io/badge/-Canva-9932CC?style=for-the-badge&logo=canva&logoColor=white&link=https://www.canva.com/"/></a>
+  
+  <a href="https://about.gitlab.com/" alt="GitLab">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://about.gitlab.com/"/></a>
 </p> 
 </p>
 <p align="left" style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: large;">
