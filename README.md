@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.postgresql.org/"/</a>
     
   <a href="https://www.mysql.com/" alt="MySQL">
-    <img src="https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/"/</a>
+    <img src="https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.mysql.com/"</a>
 
 </p> 
 </p>
