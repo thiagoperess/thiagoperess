@@ -31,17 +31,21 @@
 </div>
 <br>
 <div> 
-    <p class="left">
-        <a href="https://www.linkedin.com/in/thiagoperess/" alt="Linkedin">
-        <img src="https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoperess/" /></a>
-        
-        <a href="https://www.instagram.com/thiagoperes.py/" alt="Instagram">
-        <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagoperes.py/"/></a>
-      
-        <a href="https://thiagoperess.medium.com/" alt="Medium">
-        <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://https://thiagoperess.medium.com/"/></a>
-      
-        <a href="https://twitter.com/othiagoperess" alt="Twitter">
-        <img src="https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/othiagoperess"/></a>
-    </p> 
+<p class="left">
+<a href="https://www.linkedin.com/in/thiagoperess/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoperess/"/>
+</a>
+
+<a href="https://www.instagram.com/thiagoperes.py/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagoperes.py/"/
+</a>
+
+<a href="https://thiagoperess.medium.com/" alt="Medium">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://https://thiagoperess.medium.com/"/>
+</a>
+
+<a href="https://twitter.com/othiagoperess" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/othiagoperess"/>
+</a>
+</p> 
 </div>
