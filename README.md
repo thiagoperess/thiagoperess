@@ -5,15 +5,15 @@
     Power BI and data analysis (despite being a Linux user today); Passionate about 
     creating and sharing content; Programming; Data science; Composition and Writing.
 </p>
+<p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
+Currently studying Computer Science at Laureate Universities. I'm very curious 
+and I like to study and learn a lot and everything. Eternal lifelong learning.
+</p>
 <div>
     <a href="https://github.com/thiagoperess">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoperess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoperess&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoperess&layout=compact&langs_count=6&theme=dracula"/>
 </div>
-  <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
-    Currently studying Computer Science at Laureate Universities. I'm very curious 
-    and I like to study and learn a lot and everything. Eternal lifelong learning.
-  </p>
 <div style="display: inline_block"><br>
     <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Thiago-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
