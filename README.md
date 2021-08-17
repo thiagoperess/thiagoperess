@@ -26,7 +26,7 @@ and I like to study and learn a lot and everything. Eternal lifelong learning.
 <br>
 <div>
     <a href="https://github.com/thiagoperess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoperess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoperess&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoperess&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <br>
