@@ -14,6 +14,7 @@ and I like to study and learn a lot and everything. Eternal lifelong learning.
     <img align="center" alt="Thiago-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Thiago-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" alt="Thiago-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Thiago-Linux" height="30" width="40" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg">   
     <img align="center" alt="Thiago-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Thiago-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
