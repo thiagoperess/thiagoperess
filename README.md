@@ -12,9 +12,10 @@ and I like to study and learn a lot and everything. Eternal lifelong learning.
 <div style="display: inline_block"><br>
     <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Thiago-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Thiago-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="Thiago-GitHub" height="35" width="35" src="https://img.icons8.com/fluency/48/000000/github.png">
     <img align="center" alt="Thiago-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Thiago-Linux" height="30" width="40" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg">   
+    <img align="center" alt="Thiago-Power-BI" height="30" width="40" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg">
+    <img align="center" alt="Thiago-Excel" height="30" width="30" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
     <img align="center" alt="Thiago-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Thiago-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
