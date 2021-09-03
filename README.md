@@ -9,21 +9,26 @@
 Currently studying Computer Science at Laureate Universities. I'm very curious 
 and I like to study and learn a lot and everything. Eternal lifelong learning.
 </p>
+I like and study these technologies
 <div style="display: inline_block"><br>
-    <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Thiago-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Thiago-GitHub" height="35" width="35" src="https://img.icons8.com/fluency/48/000000/github.png">
-    <img align="center" alt="Thiago-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Thiago-Power-BI" height="30" width="40" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg">
-    <img align="center" alt="Thiago-Excel" height="30" width="30" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
-    <img align="center" alt="Thiago-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Thiago-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Thiago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="Thiago-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-    <img align="center" alt="Thiago-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="GitHub" height="37" width="37" src="https://img.icons8.com/fluency/48/000000/github.png">
+    <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Power-BI" height="30" width="40" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg">
+    <img align="center" alt="Excel" height="35" width="35" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
+    <img align="center" alt="Jupyter" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="PSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Go" height="30" width="37" src="https://img.icons8.com/color/48/000000/golang.png">
+    <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+    <img align="center" alt="Julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
+    <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 <br>
 <div>
@@ -32,7 +37,7 @@ and I like to study and learn a lot and everything. Eternal lifelong learning.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoperess&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <br>
-<div> 
+<div>
 <p class="left">
 <a href="https://www.linkedin.com/in/thiagoperess/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoperess/"/>
