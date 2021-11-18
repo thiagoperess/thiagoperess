@@ -16,8 +16,7 @@ I like and study these technologies
     <img align="center" alt="GitHub" height="37" width="37" src="https://img.icons8.com/fluency/48/000000/github.png">
     <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Power-BI" height="30" width="40" src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg">
-    <img align="center" alt="Excel" height="35" width="35" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
-    <img align="center" alt="Jupyter" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Jupyter" height="35" width="33" src="https://user-images.githubusercontent.com/59234754/142356201-7018077a-dbed-44e0-bafe-0a73716dfcc3.png">
     <img align="center" alt="PSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
