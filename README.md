@@ -1,13 +1,9 @@
 <h2><b>Hi, my name is Thiago Peres!</b></h2>
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
-    I'm from Porto Alegre, RS. Graduated in Law from the Lutheran University of Brazil. 
-    I entered technology working at a legaltech. There I became a lover of Excel and 
-    Power BI and data analysis (despite being a Linux user today); Passionate about 
-    creating and sharing content; Programming; Data science; Composition and Writing.
+Sou de Porto Alegre, RS. Graduado em Direito pela Universidade Luterana do Brasil. Trabalhei por alguns anos em uma startup jurídica (legaltech). Lá me tornei amante do Excel, Power BI e análise de dados, mas, principalmente, ainda mais por pessoas. Afinal, quem trabalha com qualquer área, lida com pessoas, são elas que realmente importam. Pessoas precisam de ajuda. E ajudar me faz bem :) 
 </p>
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
-Currently studying  Computer Systems Analyst at Estácio Universities. I'm very curious 
-and I like to study and learn a lot and everything. Eternal lifelong learning.
+Apaixonado tecnologia num geral, desenvolvimento (pessoal e web); maluco por distros Linux e por criar e compartilhar conteúdo. Sou muito curioso e gosto de estudar e aprender muito e de tudo. Um eterno lifelong learning.
 </p>
 I like and study these technologies:
 <div style="display: inline_block"><br>
