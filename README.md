@@ -5,7 +5,6 @@ Sou de Porto Alegre, RS. Graduado em Direito pela Universidade Luterana do Brasi
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
 Apaixonado tecnologia num geral, desenvolvimento (pessoal e web); maluco por distros Linux e por criar e compartilhar conteúdo. Sou muito curioso e gosto de estudar e aprender muito e de tudo. Um eterno lifelong learning.
 </p>
-I like and study these technologies:
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
