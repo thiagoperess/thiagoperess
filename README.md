@@ -33,12 +33,8 @@ Apaixonado tecnologia num geral, desenvolvimento (pessoal e web); maluco por dis
     <img src="https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoperess/"/>
 </a>
 
-<a href="https://www.instagram.com/badhat.sh/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagoperes.py/"/
-</a>
-    
-<a href="https://twitter.com/badhat_" alt="Twitter">
-    <img src="https://img.shields.io/badge/-Twitter-58ACFA?style=for-the-badge&logo=twitter&logoColor=white&link=https://https://twitter.com/othiagoperess"/>
+<a href="https://www.instagram.com/thiagodasantacruz/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/othiagoperess/"/
 </a>
 </p> 
 </div>
