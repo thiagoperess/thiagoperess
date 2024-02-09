@@ -23,7 +23,7 @@ Apaixonado tecnologia num geral, desenvolvimento (pessoal e web); maluco por dis
 <br>
 <div>
     <a href="https://github.com/thiagoperess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoperess&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoperess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoperess&hide=html,scss&layout=compact&langs_count=9&theme=dark"/>
 </div>
 <br>
