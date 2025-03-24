@@ -1,24 +1,22 @@
 <h2><b>Hi, my name is Thiago Peres!</b></h2>
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
-Sou de Porto Alegre, RS. Graduado em Direito pela Universidade Luterana do Brasil. Trabalhei por alguns anos em uma startup jurídica (legaltech). Lá me tornei amante do Excel, Power BI e análise de dados, mas, principalmente, ainda mais por pessoas. Afinal, quem trabalha com qualquer área, lida com pessoas, são elas que realmente importam. Pessoas precisam de ajuda. E ajudar me faz bem :) 
-</p>
+ Formado pela Universidade Luterana do Brasil, em Porto Alegre, RS, atuando nas áreas Previdenciária, do Consumidor e na defesa dos direitos das Pessoas com Deficiência (PCDs); minha atuação vai além do Direito: sou também programador, analista de dados e apaixonado por inteligência artificial e gestão do conhecimento.
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
-Apaixonado tecnologia num geral, desenvolvimento (pessoal e web); maluco por distros Linux e por criar e compartilhar conteúdo. Sou muito curioso e gosto de estudar e aprender muito e de tudo. Um eterno lifelong learning.
+Minha trajetória começou no Direito, e após em uma LegalTech, depois conhecendo o mundo das Startups, onde descobri o poder da tecnologia para otimizar processos e transformar a tomada de decisões. Desde então, mergulhei no mundo da automação, aprendizado de máquina e engenharia de prompts, sempre explorando novas formas de integrar IA e dados ao dia a dia profissional. Trabalho com Python, Power BI, MySQL, Docker, entre outras ferramentas, desenvolvendo soluções que facilitam a vida de pessoas e negócios.
+<p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
+Sou um entusiasta de Linux, desenvolvimento web e cultura open source, sempre em busca de aprendizado contínuo (lifelong learning). Acredito que a tecnologia e a IA devem estar a serviço das pessoas, tornando o conhecimento mais acessível e os processos mais eficientes. No fim das contas, o que realmente importa são elas – e é isso que me move.
 </p>
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" alt="Gitlab" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
     <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="PSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="PHP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Bitbucket" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
-    <img align="center" alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 <br>
 <div>
