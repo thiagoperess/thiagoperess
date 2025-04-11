@@ -1,6 +1,6 @@
 <h2><b>Hi, my name is Thiago Peres!</b></h2>
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
- Formado pela Universidade Luterana do Brasil, em Porto Alegre, RS, atuando nas áreas Previdenciária, do Consumidor e na defesa dos direitos das Pessoas com Deficiência (PCDs); minha atuação vai além do Direito: sou também programador, analista de dados e apaixonado por inteligência artificial e gestão do conhecimento.
+ Formado em Direito pela Universidade Luterana do Brasil, em Porto Alegre, RS, atuando nas áreas Previdenciária, do Consumidor e Tributária e na defesa dos direitos das Pessoas com Deficiência (PCDs); minha atuação vai além do Direito: sou também programador, analista de dados e apaixonado por inteligência artificial e gestão do conhecimento.
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
 Minha trajetória começou no Direito, e após em uma LegalTech, depois conhecendo o mundo das Startups, onde descobri o poder da tecnologia para otimizar processos e transformar a tomada de decisões. Desde então, mergulhei no mundo da automação, aprendizado de máquina e engenharia de prompts, sempre explorando novas formas de integrar IA e dados ao dia a dia profissional. Trabalho com Python, Power BI, MySQL, Excel, entre outras ferramentas, desenvolvendo soluções que facilitam a vida de pessoas e negócios.
 <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
